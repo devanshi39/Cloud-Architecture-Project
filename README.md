@@ -1,5 +1,5 @@
 ## Healthcare Application Architecture on AWS
-![alt text]()
+![alt text](https://github.com/devanshi39/Cloud-Architecture-Project/blob/main/Cloud_arch.png)
 
 
 The above diagram shows the cloud architecture of how the healthcare application would be deployed over
